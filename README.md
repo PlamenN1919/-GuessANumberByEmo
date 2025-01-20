@@ -25,7 +25,7 @@ Find the source code [here](guess_a_number.py).
 ![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
 
 ### Game Over
-![Game Over](![image](https://github.com/user-attachments/assets/d8d8e47f-ad9e-46d4-a729-679394540fa7)
+![Game Over](![image](https://github.com/user-attachments/assets/d3eeece6-1439-47fe-b10d-9cc9f3f1e3b8)
 )
 
 ## Live Demo 🚀
