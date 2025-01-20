@@ -25,8 +25,7 @@ Find the source code [here](guess_a_number.py).
 ![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
 
 ### Game Over
-![Game Over](![image](https://github.com/user-attachments/assets/d3eeece6-1439-47fe-b10d-9cc9f3f1e3b8)
-)
+![Game Over](https://github.com/PlamenN1919/-GuessANumberByEmo#:~:text=52%20minutes%20ago-,nW5dtA2%20%2D%20Imgur.png,-Add%20files%20via)
 
 ## Live Demo 🚀
 Run the game directly on [Replit](https://replit.com/) or any other Python IDE of your choice.
