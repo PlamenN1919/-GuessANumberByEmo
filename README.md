@@ -19,15 +19,16 @@ Find the source code [here](guess_a_number.py).
 
 ## Screenshots 📸
 ### Game Start
-![Game Start](![cmJAF7m - Imgur](https://github.com/user-attachments/assets/5e835a01-ca3a-4d91-b394-5d0e61a09c1a)
+(![cmJAF7m - Imgur](https://github.com/user-attachments/assets/5e835a01-ca3a-4d91-b394-5d0e61a09c1a)
 )
 
 ### Level Progression
-![Level Progression](![8QiVJLS - Imgur](https://github.com/user-attachments/assets/edb10294-6035-4fcd-9c53-4a38f1ef94c6)
+(![8QiVJLS - Imgur](https://github.com/user-attachments/assets/edb10294-6035-4fcd-9c53-4a38f1ef94c6)
 )
 
 ### Game Over
-![Game Over]([nW5dtA2 - Imgur.png](https://github.com/PlamenN1919/-GuessANumberByEmo/blob/main/nW5dtA2%20-%20Imgur.png))
+(![7h7BFKJ - Imgur](https://github.com/user-attachments/assets/14c4f218-7021-41ff-becb-85185a318d8a)
+)
 
 ## Live Demo 🚀
 Run the game directly on [Replit](https://replit.com/) or any other Python IDE of your choice.
