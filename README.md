@@ -15,7 +15,7 @@ This project uses Python to implement a text-based guessing game. Key features i
 - **Replay and Continuation**: Offers options to continue leveling up or restart the game.
 
 ## Source Code 📂
-Find the source code [here](./guess_the_number.py).
+Find the source code [here](guess_a_number.py).
 
 ## Screenshots 📸
 ### Game Start
