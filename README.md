@@ -19,7 +19,8 @@ Find the source code [here](guess_a_number.py).
 
 ## Screenshots 📸
 ### Game Start
-![Game Start](https://via.placeholder.com/600x200?text=Game+Start+Screenshot)
+![Game Start](![cmJAF7m - Imgur](https://github.com/user-attachments/assets/5e835a01-ca3a-4d91-b394-5d0e61a09c1a)
+)
 
 ### Level Progression
 ![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
