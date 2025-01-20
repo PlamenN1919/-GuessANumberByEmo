@@ -25,7 +25,8 @@ Find the source code [here](guess_a_number.py).
 ![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
 
 ### Game Over
-![Game Over](https://via.placeholder.com/600x200?text=Game+Over+Screenshot)
+![Game Over](![image](https://github.com/user-attachments/assets/d8d8e47f-ad9e-46d4-a729-679394540fa7)
+)
 
 ## Live Demo 🚀
 Run the game directly on [Replit](https://replit.com/) or any other Python IDE of your choice.
