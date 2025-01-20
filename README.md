@@ -14,6 +14,19 @@ This project uses Python to implement a text-based guessing game. Key features i
 - **User-Friendly Feedback**: The game informs the player whether their guesses are too high or too low.
 - **Replay and Continuation**: Offers options to continue leveling up or restart the game.
 
+## Source Code 📂
+Find the source code [here](./guess_the_number.py).
+
+## Screenshots 📸
+### Game Start
+![Game Start](https://via.placeholder.com/600x200?text=Game+Start+Screenshot)
+
+### Level Progression
+![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
+
+### Game Over
+![Game Over](https://via.placeholder.com/600x200?text=Game+Over+Screenshot)
+
 ## Live Demo 🚀
 Run the game directly on [Replit](https://replit.com/) or any other Python IDE of your choice.
 
@@ -31,4 +44,3 @@ Run the game directly on [Replit](https://replit.com/) or any other Python IDE o
 
 ### License 📝
 This project is open-source and available under the MIT License. Feel free to contribute, share, or modify as needed.
-
