@@ -23,7 +23,8 @@ Find the source code [here](guess_a_number.py).
 )
 
 ### Level Progression
-![Level Progression](https://via.placeholder.com/600x200?text=Level+Progression+Screenshot)
+![Level Progression](![8QiVJLS - Imgur](https://github.com/user-attachments/assets/edb10294-6035-4fcd-9c53-4a38f1ef94c6)
+)
 
 ### Game Over
 ![Game Over]([nW5dtA2 - Imgur.png](https://github.com/PlamenN1919/-GuessANumberByEmo/blob/main/nW5dtA2%20-%20Imgur.png))
